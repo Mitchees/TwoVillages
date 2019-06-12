@@ -13,7 +13,7 @@ import static javafx.scene.paint.Color.DARKGREEN;
 /**
  *  This is my main class.
  *
- * @author Mitchell Aninyang, 000796709
+ * @author Mitchell Aninyang
  */
 public class TwoVillages extends Application {
 
