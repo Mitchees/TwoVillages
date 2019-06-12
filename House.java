@@ -1,7 +1,7 @@
 /**
  * This is my house class
  *
- * @author Mitchell Aninyang, 000796709
+ * @author Mitchell Aninyang
  */
 
 
