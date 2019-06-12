@@ -3,7 +3,7 @@
  * Each village is randomly placed on the screen, and its houses are
  * randomly sized and randomly spaced between each other.
  *
- * @author Mitchell Aninyang, 000796709
+ * @author Mitchell Aninyang
  */
 import javafx.scene.canvas.GraphicsContext;
 import javafx.scene.paint.Color;
